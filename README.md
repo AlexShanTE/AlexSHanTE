@@ -8,7 +8,7 @@
     + [Дипломный проект. Приложение "Мои рецепты" (Kotlin, Android)](https://github.com/AlexShanTE/NeRecipe)
     + [Приложение "Посты" (Kotlin, Android)](https://github.com/AlexShanTE/NMedia)
     + [Мини-проект "Чаты"](https://github.com/AlexShanTE/Kotlin_ChatMiniProject)
-    + [Мини-проект "Конвертер в текстовую графику (Java)](http://nodeca.github.io/pica/demo)
+    + [Мини-проект "Конвертер в текстовую графику (Java)](https://github.com/AlexShanTE/ImageToTextConverter)
 + Pet - проекты
     + [GitHub RepositoryView (Kotlin, Android)](https://github.com/AlexShanTE/GitHub_RepositoryView_App)
     + [Справочник стран (Kotlin, Android)](https://github.com/AlexShanTE/CountryDirectory)
