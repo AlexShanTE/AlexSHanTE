@@ -10,11 +10,13 @@
     + [Мини-проект "Чаты"](https://github.com/AlexShanTE/Kotlin_ChatMiniProject)
     + [Мини-проект "Конвертер в текстовую графику (Java)](https://github.com/AlexShanTE/ImageToTextConverter)
 + Pet - проекты
+    + [GitHub BIN Info (Kotlin, Compose, Android)](https://github.com/AlexShanTE/Compose-BIN_Info)
     + [GitHub RepositoryView (Kotlin, Android)](https://github.com/AlexShanTE/GitHub_RepositoryView_App)
     + [Справочник стран (Kotlin, Android)](https://github.com/AlexShanTE/CountryDirectory)
 
 Курсы, сертификаты, дипломы:
 
++ [2023, Google. Android basics with compose](https://verified.sertifier.com/en/verify/48635001172457?ref=email)
 + [2022, Нетология. Разработка мобильных приложений с нуля](https://disk.yandex.ru/i/uYzT0q_eD-pTdw)
 + [2022, Нетология. Android - разработчик](https://disk.yandex.ru/i/iiRzqI0oQHAXQw)
 + [2022, Нетология. Введение в SQL и работу с базой данных](https://disk.yandex.ru/i/cEnU6t-ZnsnhnQ)
