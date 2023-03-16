@@ -10,7 +10,7 @@
     + [Мини-проект "Чаты"](https://github.com/AlexShanTE/Kotlin_ChatMiniProject)
     + [Мини-проект "Конвертер в текстовую графику (Java)](https://github.com/AlexShanTE/ImageToTextConverter)
 + Pet - проекты
-    + [GitHub BIN Info (Kotlin, Compose, Android)](https://github.com/AlexShanTE/Compose-BIN_Info)
+    + [BIN Info (Kotlin, Compose, Android)](https://github.com/AlexShanTE/Compose-BIN_Info)
     + [GitHub RepositoryView (Kotlin, Android)](https://github.com/AlexShanTE/GitHub_RepositoryView_App)
     + [Справочник стран (Kotlin, Android)](https://github.com/AlexShanTE/CountryDirectory)
 
